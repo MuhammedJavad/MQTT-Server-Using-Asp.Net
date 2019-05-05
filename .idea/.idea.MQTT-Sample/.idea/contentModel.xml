@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2018.3/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.3/system/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_MQTT-Sample.-2093918238.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="ClientApp" t="Include">
+        <e p="RaspberryClient" t="IncludeRecursive">
+          <e p="Config.cs" t="Include" />
+          <e p="Program.cs" t="Include" />
+          <e p="RaspberryClient.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp2.2" t="Include">
+                <e p="RaspberryClient.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="MQTT-Sample.sln" t="IncludeFlat" />
+      <e p="Services" t="Include">
+        <e p="Message-Broker" t="IncludeRecursive">
+          <e p="Config.cs" t="Include" />
+          <e p="Message-Broker.csproj" t="IncludeRecursive" />
+          <e p="Program.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp2.2" t="Include">
+                <e p="Message-Broker.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="WebClient" t="IncludeRecursive">
+        <e p="Controllers" t="Include">
+          <e p="HomeController.cs" t="Include" />
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20190504202827_initialize.Designer.cs" t="Include" />
+          <e p="20190504202827_initialize.cs" t="Include" />
+          <e p="LampContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="DbContext.cs" t="Include" />
+          <e p="LampSourcing.cs" t="Include" />
+        </e>
+        <e p="MqttSample.db" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="Views" t="Include">
+          <e p="Home" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Shared" t="Include">
+            <e p="_Layout.cshtml" t="Include" />
+          </e>
+        </e>
+        <e p="WebClient.csproj" t="IncludeRecursive" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="WebClient.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="wwwroot" t="Include">
+          <e p="css" t="Include">
+            <e p="site.css" t="Include" />
+          </e>
+          <e p="javascript" t="Include">
+            <e p="site.js" t="Include" />
+          </e>
+          <e p="lib" t="Include">
+            <e p="Bootstrap" t="Include">
+              <e p="bootstrap-grid.css" t="Include" />
+              <e p="bootstrap-grid.css.map" t="Include" />
+            </e>
+            <e p="Semantic-ui" t="Include">
+              <e p="semantic.min.css" t="Include" />
+              <e p="semantic.min.js" t="Include" />
+              <e p="themes" t="Include">
+                <e p="default" t="Include">
+                  <e p="assets" t="Include">
+                    <e p="fonts" t="Include">
+                      <e p="brand-icons.eot" t="Include" />
+                      <e p="brand-icons.svg" t="Include" />
+                      <e p="brand-icons.ttf" t="Include" />
+                      <e p="brand-icons.woff" t="Include" />
+                      <e p="brand-icons.woff2" t="Include" />
+                      <e p="icons.eot" t="Include" />
+                      <e p="icons.otf" t="Include" />
+                      <e p="icons.svg" t="Include" />
+                      <e p="icons.ttf" t="Include" />
+                      <e p="icons.woff" t="Include" />
+                      <e p="icons.woff2" t="Include" />
+                      <e p="outline-icons.eot" t="Include" />
+                      <e p="outline-icons.svg" t="Include" />
+                      <e p="outline-icons.ttf" t="Include" />
+                      <e p="outline-icons.woff" t="Include" />
+                      <e p="outline-icons.woff2" t="Include" />
+                    </e>
+                    <e p="images" t="Include">
+                      <e p="flags.png" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="jquery" t="Include">
+              <e p="dist" t="Include">
+                <e p="jquery.js" t="Include" />
+                <e p="jquery.min.js" t="Include" />
+                <e p="jquery.min.map" t="Include" />
+              </e>
+            </e>
+            <e p="paho.mqtt" t="Include">
+              <e p="paho-mqtt-min.js" t="Include" />
+              <e p="paho-mqtt.js" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

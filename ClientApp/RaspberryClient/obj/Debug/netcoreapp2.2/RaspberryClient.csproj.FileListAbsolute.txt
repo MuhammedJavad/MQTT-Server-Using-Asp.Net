@@ -1,0 +1,33 @@
+D:/source/MQTT-Sample/ClientApp/RaspberryClient/bin/Debug/netcoreapp2.2/RaspberryClient.deps.json
+D:/source/MQTT-Sample/ClientApp/RaspberryClient/bin/Debug/netcoreapp2.2/RaspberryClient.runtimeconfig.json
+D:/source/MQTT-Sample/ClientApp/RaspberryClient/bin/Debug/netcoreapp2.2/RaspberryClient.runtimeconfig.dev.json
+D:/source/MQTT-Sample/ClientApp/RaspberryClient/bin/Debug/netcoreapp2.2/RaspberryClient.dll
+D:/source/MQTT-Sample/ClientApp/RaspberryClient/bin/Debug/netcoreapp2.2/RaspberryClient.pdb
+D:/source/MQTT-Sample/ClientApp/RaspberryClient/obj/Debug/netcoreapp2.2/RaspberryClient.csprojAssemblyReference.cache
+D:/source/MQTT-Sample/ClientApp/RaspberryClient/obj/Debug/netcoreapp2.2/RaspberryClient.csproj.CoreCompileInputs.cache
+D:/source/MQTT-Sample/ClientApp/RaspberryClient/obj/Debug/netcoreapp2.2/RaspberryClient.AssemblyInfoInputs.cache
+D:/source/MQTT-Sample/ClientApp/RaspberryClient/obj/Debug/netcoreapp2.2/RaspberryClient.AssemblyInfo.cs
+D:/source/MQTT-Sample/ClientApp/RaspberryClient/obj/Debug/netcoreapp2.2/RaspberryClient.dll
+D:/source/MQTT-Sample/ClientApp/RaspberryClient/obj/Debug/netcoreapp2.2/RaspberryClient.pdb
+/media/muhammed/LocalVolume/source/MQTT-Sample/ClientApp/RaspberryClient/bin/Debug/netcoreapp2.2/RaspberryClient.deps.json
+/media/muhammed/LocalVolume/source/MQTT-Sample/ClientApp/RaspberryClient/bin/Debug/netcoreapp2.2/RaspberryClient.runtimeconfig.json
+/media/muhammed/LocalVolume/source/MQTT-Sample/ClientApp/RaspberryClient/bin/Debug/netcoreapp2.2/RaspberryClient.runtimeconfig.dev.json
+/media/muhammed/LocalVolume/source/MQTT-Sample/ClientApp/RaspberryClient/bin/Debug/netcoreapp2.2/RaspberryClient.dll
+/media/muhammed/LocalVolume/source/MQTT-Sample/ClientApp/RaspberryClient/bin/Debug/netcoreapp2.2/RaspberryClient.pdb
+/media/muhammed/LocalVolume/source/MQTT-Sample/ClientApp/RaspberryClient/obj/Debug/netcoreapp2.2/RaspberryClient.csprojAssemblyReference.cache
+/media/muhammed/LocalVolume/source/MQTT-Sample/ClientApp/RaspberryClient/obj/Debug/netcoreapp2.2/RaspberryClient.csproj.CoreCompileInputs.cache
+/media/muhammed/LocalVolume/source/MQTT-Sample/ClientApp/RaspberryClient/obj/Debug/netcoreapp2.2/RaspberryClient.AssemblyInfoInputs.cache
+/media/muhammed/LocalVolume/source/MQTT-Sample/ClientApp/RaspberryClient/obj/Debug/netcoreapp2.2/RaspberryClient.AssemblyInfo.cs
+/media/muhammed/LocalVolume/source/MQTT-Sample/ClientApp/RaspberryClient/obj/Debug/netcoreapp2.2/RaspberryClient.dll
+/media/muhammed/LocalVolume/source/MQTT-Sample/ClientApp/RaspberryClient/obj/Debug/netcoreapp2.2/RaspberryClient.pdb
+/media/muhammed/Local Volume/source/MQTT-Sample/ClientApp/RaspberryClient/bin/Debug/netcoreapp2.2/RaspberryClient.deps.json
+/media/muhammed/Local Volume/source/MQTT-Sample/ClientApp/RaspberryClient/bin/Debug/netcoreapp2.2/RaspberryClient.runtimeconfig.json
+/media/muhammed/Local Volume/source/MQTT-Sample/ClientApp/RaspberryClient/bin/Debug/netcoreapp2.2/RaspberryClient.runtimeconfig.dev.json
+/media/muhammed/Local Volume/source/MQTT-Sample/ClientApp/RaspberryClient/bin/Debug/netcoreapp2.2/RaspberryClient.dll
+/media/muhammed/Local Volume/source/MQTT-Sample/ClientApp/RaspberryClient/bin/Debug/netcoreapp2.2/RaspberryClient.pdb
+/media/muhammed/Local Volume/source/MQTT-Sample/ClientApp/RaspberryClient/obj/Debug/netcoreapp2.2/RaspberryClient.csprojAssemblyReference.cache
+/media/muhammed/Local Volume/source/MQTT-Sample/ClientApp/RaspberryClient/obj/Debug/netcoreapp2.2/RaspberryClient.csproj.CoreCompileInputs.cache
+/media/muhammed/Local Volume/source/MQTT-Sample/ClientApp/RaspberryClient/obj/Debug/netcoreapp2.2/RaspberryClient.AssemblyInfoInputs.cache
+/media/muhammed/Local Volume/source/MQTT-Sample/ClientApp/RaspberryClient/obj/Debug/netcoreapp2.2/RaspberryClient.AssemblyInfo.cs
+/media/muhammed/Local Volume/source/MQTT-Sample/ClientApp/RaspberryClient/obj/Debug/netcoreapp2.2/RaspberryClient.dll
+/media/muhammed/Local Volume/source/MQTT-Sample/ClientApp/RaspberryClient/obj/Debug/netcoreapp2.2/RaspberryClient.pdb

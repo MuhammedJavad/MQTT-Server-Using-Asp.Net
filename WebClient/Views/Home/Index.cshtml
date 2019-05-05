@@ -1,0 +1,52 @@
+@model IEnumerable<WebClient.Models.LampSourcing> 
+@{
+    Layout = "_Layout";
+}
+
+<div class="box">
+        <table class="ui celled table">
+            <thead>
+                <tr>
+                    <th class="five wide"><i class="usb icon"></i>Output Status</th>
+                    <th class="six wide"><i class="power off icon"></i>Operation</th>
+                    <th class="five wide"><i class="sticky note outline icon"></i>Your recently activities</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td data-label="Name">
+                        <div class="ui icon message">
+                            <i class="check icon red" id="lamp"></i>
+                            <div class="content">
+                                <div class="header">
+                                    Output
+                                </div>
+                            </div>
+                        </div>
+                    </td>
+                    <td data-label="Age">
+                        <div class="ui buttons">
+                            <button class="ui primary button" id="on-btn">On</button>
+                            <div class="or"></div>
+                            <button class="ui secondary button" id="off-btn">Off</button>
+                        </div>
+                    </td>
+                    <td data-label="Job">
+                        <div class="ui inverted segment">
+                            <div class="ui inverted relaxed divided list" id="output-log">
+                                @foreach (var data in Model)
+                                {
+                                    <div class="item">
+                                        <div class="content">
+                                            <div class="header">The Lamp was @data.Status</div>
+                                            at @data.Time.ToString("g")
+                                        </div>
+                                    </div>     
+                                }
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>

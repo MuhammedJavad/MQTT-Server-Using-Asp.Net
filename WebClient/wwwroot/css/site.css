@@ -1,0 +1,33 @@
+﻿body {
+}
+
+.banner {
+    height: 160px;
+    width: 100%;
+    background-image: linear-gradient(45deg, rgb(102, 95, 238) 0%, rgb(39, 194, 222) 100%);
+}
+
+    .banner .title {
+        color: white;
+        letter-spacing: 5px;
+        word-spacing: 30px;
+        padding: 80px;
+        text-align: center;
+        font-size: 4rem;
+    }
+
+.ui.celled.table {
+    text-align: center;
+}
+
+.box {
+    margin: 30px;
+}
+
+.ui.list .list > .item .header, .ui.list > .item .header {
+    margin-bottom: 10px;
+}
+
+.ui.message .header {
+    text-align: left;
+}
