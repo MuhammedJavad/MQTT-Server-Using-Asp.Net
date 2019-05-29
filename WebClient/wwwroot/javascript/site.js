@@ -30,7 +30,7 @@ function MqttClient(host, port, clientId, topic) {
                     '<div class="header">The Lamp was ' +
                     message.payloadString +
                     '</div>at ' +
-                    Date.now() +
+                    Date(Date.now()) +
                     '</div></div>';
                 MqttClient.prototype.logging.prepend(html);
                 var children = MqttClient.prototype.logging.children();
@@ -45,7 +45,7 @@ function MqttClient(host, port, clientId, topic) {
                     '<div class="header">The Lamp was ' +
                     message.payloadString +
                     '</div>at ' +
-                    Date.now() +
+                    Date(Date.now()) +
                     '</div></div>';
                 MqttClient.prototype.logging.prepend(html);
                 var children = MqttClient.prototype.logging.children();
@@ -67,7 +67,9 @@ $(function () {
     var lamp = $("#lamp");
     MqttClient.prototype.lamp = lamp;
     MqttClient.prototype.logging = $("#output-log")
+
     var client = new MqttClient("localhost", 5000, "webClient-Js", "pi-lamp");
+    
     $("#on-btn").click(function () {
         if (lamp.hasClass('red'))
             client.SendMessage("on");

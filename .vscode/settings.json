@@ -1,8 +1,0 @@
-{
-    "files.exclude": {
-        "**/.idea": true,
-        "**/.vs": true,
-        "**/.vscode": true,
-        "**/*sln*": true
-    }
-}

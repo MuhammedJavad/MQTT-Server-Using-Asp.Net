@@ -5,7 +5,7 @@ import paho.mqtt.client as mqtt
 class ServicesHandler():
     def __init__(self, client_id, protocol, host, port, time_out, on_connect, on_message):
         self.gpio_switcher = False
-        # self.led = LED(17) # Pick Raspberry Pi 17th GPIO 
+        self.led = LED(17) # Pick Raspberry Pi 17th GPIO 
         self.client = mqtt.Client(client_id=client_id, clean_session=True, userdata=None, protocol=mqtt.MQTTv31, transport=protocol)
         self.client.on_connect = on_connect
         self.client.on_message = on_message

@@ -80,7 +80,7 @@ namespace WebClient
                .UseMqttServer(server =>
                {
                    server.ApplicationMessageReceived += ServerOnApplicationMessageReceived;
-                   server.ClientConnected += (sender, e) => Debug.WriteLine($">> Disconnected {e.ClientId}");
+                   server.ClientConnected += (sender, e) => Debug.WriteLine($">> Connected {e.ClientId}");
                });
             app.UseMvc();
 
